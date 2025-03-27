@@ -1,6 +1,6 @@
 # Brain-Tumor-Detection-System-using-Matlab
 
-An assignment for my university. This brain tumor detection system is run on Matlab. The image will go through several processess of image processing and filtering
+This is an assignment for my university. This brain tumor detection system is run on Matlab. The image will undergo several processes of image processing and filtering. For further information and details about this project, you can refer to the ```CSC566 Mini Project Guidelines.pdf```.
 
 ## Installation  
 
