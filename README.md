@@ -26,5 +26,5 @@ This project was run in **MATLAB**. If you want the same experience, consider us
    ```
    - Run this inside the command window
      
-4. To test the image, inside the ```/BrainTumor_Images``` folder, there is 2 more folder, ```/Yes``` (for brain images that contain tumor) and ```/No``` (for brain image with no tumor).
+4. To test the image, inside the ```/BrainTumor_Images``` folder, there are 2 more folders, ```/Yes``` (for brain images that contain a tumor) and ```/No``` (for brain images with no tumor).
 5. To test the system, just run the ```BrainTumor_Detection.m``` and upload the folder either ```/Yes``` or ```/No```.
